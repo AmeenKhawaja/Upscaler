@@ -1,4 +1,5 @@
 # Image Upscaler
+View the report to learn about how this was implemented!
 Deep Learning for Image Super-Resolution
 A fun project I worked on that focuses on implementing and analyzing deep learning models to enhance image resolution using Convolutional Neural Networks (CNNs).
 
