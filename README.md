@@ -3,7 +3,7 @@ Deep Learning for Image Super-Resolution
 A fun project I worked on that focuses on implementing and analyzing deep learning models to enhance image resolution using Convolutional Neural Networks (CNNs).
 
 ## Overview
-This project explores image super-resolution using deep learning-based Convolutional Neural Networks (CNNs). The goal is to upscale low-resolution images while preserving details and minimizing noise. Three different CNN architectures were implemented and evaluated using the DIV2K dataset, which contains paired high-quality and low-quality images.
+The goal is to upscale low-resolution images while preserving details and minimizing noise. Three different CNN architectures were implemented and evaluated using the DIV2K dataset, which contains paired high-quality and low-quality images.
 
 The models were trained and evaluated based on Peak Signal-to-Noise Ratio (PSNR), demonstrating how different CNN depths impact super-resolution performance.
 
